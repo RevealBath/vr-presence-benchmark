@@ -1,0 +1,1797 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &923233712464702118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712464702117}
+  m_Layer: 0
+  m_Name: BARGHEST_ Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712464702117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712464702118}
+  m_LocalRotation: {x: -0.5, y: 0.5, z: 0.4999993, w: 0.5000007}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233712888378622}
+  - {fileID: 923233713287839350}
+  - {fileID: 923233713633929663}
+  m_Father: {fileID: 923233712579847776}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 89.99992, z: 0}
+--- !u!1 &923233712498542924
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712498542923}
+  m_Layer: 0
+  m_Name: BARGHEST_ Neck1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712498542923
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712498542924}
+  m_LocalRotation: {x: 2.6498558e-14, y: 0.00000018321478, z: -0.06605668, w: 0.9978159}
+  m_LocalPosition: {x: -0.17943992, y: -0.000118103024, z: -3.277091e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233713441428062}
+  m_Father: {fileID: 923233714499906757}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000029272607, y: 0.00009190673, z: -35.33366}
+--- !u!1 &923233712501210508
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712501210507}
+  m_Layer: 0
+  m_Name: BARGHEST_ L Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712501210507
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712501210508}
+  m_LocalRotation: {x: 0.000000021307658, y: -0.0000000045736943, z: 0.4168003, w: 0.90899813}
+  m_LocalPosition: {x: -0.4677282, y: -0.000000076293944, z: 0.000000038146972}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 1}
+  m_Children:
+  - {fileID: 923233713937281220}
+  m_Father: {fileID: 923233712558465981}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000012656938, y: -0.000005584917, z: 95.28369}
+--- !u!1 &923233712558465982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712558465981}
+  m_Layer: 0
+  m_Name: BARGHEST_ L UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712558465981
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712558465982}
+  m_LocalRotation: {x: -0.38136387, y: -0.40754616, z: -0.21492538, w: 0.8014205}
+  m_LocalPosition: {x: -0.38213444, y: 0, z: 0.000000076293944}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233712501210507}
+  m_Father: {fileID: 923233713048324216}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -59.499325, y: -30.668304, z: -21.13846}
+--- !u!1 &923233712579847777
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712579847776}
+  m_Layer: 0
+  m_Name: BARGHEST_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712579847776
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712579847777}
+  m_LocalRotation: {x: 0.48379079, y: -0.48379213, z: 0.5156986, w: 0.5157001}
+  m_LocalPosition: {x: -0, y: 0.66199994, z: 1.044}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 923233712464702117}
+  m_Father: {fileID: 923233712869307125}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 85.82372, y: -0.0009613408, z: 89.99901}
+--- !u!1 &923233712617309002
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712617309001}
+  m_Layer: 0
+  m_Name: BARGHEST_ Tail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712617309001
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712617309002}
+  m_LocalRotation: {x: -0.00000008820199, y: -0.00000034614646, z: 0.023874694, w: 0.999715}
+  m_LocalPosition: {x: -0.3086795, y: -0.00025146484, z: -6.495975e-10}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 923233712667057238}
+  m_Father: {fileID: 923233714078130435}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 4.636264, y: -3.4114137, z: 23.266123}
+--- !u!1 &923233712667057239
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712667057238}
+  m_Layer: 0
+  m_Name: BARGHEST_ Tail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712667057238
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712667057239}
+  m_LocalRotation: {x: -0.000000008670234, y: -0.00000005818087, z: 0.002745609, w: 0.99999624}
+  m_LocalPosition: {x: -0.31587374, y: -0.0002482605, z: -6.8452205e-10}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 923233713671192270}
+  m_Father: {fileID: 923233712617309001}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 3.8102303, y: -4.317969, z: -30.135927}
+--- !u!1 &923233712840975736
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712840975735}
+  m_Layer: 0
+  m_Name: BARGHEST_ R UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712840975735
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712840975736}
+  m_LocalRotation: {x: 0.38136387, y: 0.40754616, z: -0.21492538, w: 0.8014205}
+  m_LocalPosition: {x: -0.38213438, y: 0, z: 0.000000076293944}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 923233714247208533}
+  m_Father: {fileID: 923233714162711515}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 59.49955, y: 30.66731, z: -21.140137}
+--- !u!1 &923233712869307126
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712869307125}
+  m_Layer: 0
+  m_Name: ROOT_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712869307125
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712869307126}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233712579847776}
+  m_Father: {fileID: 923233713830249811}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!1 &923233712888378623
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712888378622}
+  m_Layer: 0
+  m_Name: BARGHEST_ L Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712888378622
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712888378623}
+  m_LocalRotation: {x: 0.69152, y: -0.6905975, z: -0.16520622, w: 0.13259798}
+  m_LocalPosition: {x: 0.00000030517577, y: 0.0000003814697, z: 0.27825356}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233713280205529}
+  m_Father: {fileID: 923233712464702117}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.9073453, y: -155.83223, z: -105.360916}
+--- !u!1 &923233712935338097
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712935338096}
+  m_Layer: 0
+  m_Name: BARGHEST_ R Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712935338096
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712935338097}
+  m_LocalRotation: {x: 0.7059534, y: 0.03509599, z: 0.035123944, w: 0.7065157}
+  m_LocalPosition: {x: -0.37702674, y: 0.000000047683713, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 923233714124823594}
+  m_Father: {fileID: 923233714247208533}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 64.98213, y: -95.88223, z: -99.87323}
+--- !u!1 &923233712977353959
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233712977353958}
+  - component: {fileID: 923233712977353957}
+  m_Layer: 0
+  m_Name: BARGHEST
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233712977353958
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712977353959}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 923233713830249811}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &923233712977353957
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233712977353959}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 871c23a9984919f4190a1ab3887761d3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 4
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 7a39c4b6372e83346ae02f9c000b43c9, type: 3}
+  m_Bones:
+  - {fileID: 923233713172772024}
+  - {fileID: 923233713048324216}
+  - {fileID: 923233714499906757}
+  - {fileID: 923233714162711515}
+  - {fileID: 923233713328911293}
+  - {fileID: 923233712498542923}
+  - {fileID: 923233712558465981}
+  - {fileID: 923233713441428062}
+  - {fileID: 923233714093169058}
+  - {fileID: 923233714363566540}
+  - {fileID: 923233712464702117}
+  - {fileID: 923233713633929663}
+  - {fileID: 923233714310488140}
+  - {fileID: 923233712501210507}
+  - {fileID: 923233713937281220}
+  - {fileID: 923233713237457869}
+  - {fileID: 923233713883219055}
+  - {fileID: 923233713939243178}
+  - {fileID: 923233712888378622}
+  - {fileID: 923233713825878072}
+  - {fileID: 923233714422019628}
+  - {fileID: 923233713390448967}
+  - {fileID: 923233714124823594}
+  - {fileID: 923233713280205529}
+  - {fileID: 923233712840975735}
+  - {fileID: 923233713287839350}
+  - {fileID: 923233713066432260}
+  - {fileID: 923233714078130435}
+  - {fileID: 923233714247208533}
+  - {fileID: 923233713460243402}
+  - {fileID: 923233714485223854}
+  - {fileID: 923233712935338096}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 923233712464702117}
+  m_AABB:
+    m_Center: {x: -0.78271306, y: 0.31111398, z: -0.033531845}
+    m_Extent: {x: 1.4445533, y: 1.0269364, z: 0.86829025}
+  m_DirtyAABB: 0
+--- !u!1 &923233713048324217
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713048324216}
+  m_Layer: 0
+  m_Name: BARGHEST_ L Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713048324216
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713048324217}
+  m_LocalRotation: {x: 0.6616612, y: -0.3378121, z: -0.48704195, w: 0.45921412}
+  m_LocalPosition: {x: -0.1641127, y: -0.239924, z: 0.20959285}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233712558465981}
+  m_Father: {fileID: 923233713172772024}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 16.178518, y: -96.206154, z: -111.3733}
+--- !u!1 &923233713066432261
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713066432260}
+  m_Layer: 0
+  m_Name: BARGHEST_ R Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713066432260
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713066432261}
+  m_LocalRotation: {x: 0.0000000033441712, y: -0.000000025631786, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.1409812, y: 0.12922116, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 923233713460243402}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00011584732, y: 0.00014450063, z: -90.00027}
+--- !u!1 &923233713085132400
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713085132175}
+  - component: {fileID: 923233713085132174}
+  m_Layer: 0
+  m_Name: BRGHEST_MANE
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713085132175
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713085132400}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 923233713830249811}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &923233713085132174
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713085132400}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 71988a1d531138c4085b3c75bf2df81b, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 4
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300004, guid: 7a39c4b6372e83346ae02f9c000b43c9, type: 3}
+  m_Bones:
+  - {fileID: 923233713172772024}
+  - {fileID: 923233713048324216}
+  - {fileID: 923233714162711515}
+  - {fileID: 923233713328911293}
+  - {fileID: 923233714499906757}
+  - {fileID: 923233714363566540}
+  - {fileID: 923233714093169058}
+  - {fileID: 923233712888378622}
+  - {fileID: 923233713287839350}
+  - {fileID: 923233712464702117}
+  - {fileID: 923233712501210507}
+  - {fileID: 923233714247208533}
+  - {fileID: 923233713633929663}
+  - {fileID: 923233712498542923}
+  - {fileID: 923233714422019628}
+  - {fileID: 923233713237457869}
+  - {fileID: 923233714310488140}
+  - {fileID: 923233713390448967}
+  - {fileID: 923233714124823594}
+  - {fileID: 923233713825878072}
+  - {fileID: 923233713441428062}
+  - {fileID: 923233712558465981}
+  - {fileID: 923233712840975735}
+  - {fileID: 923233713939243178}
+  - {fileID: 923233713460243402}
+  - {fileID: 923233713883219055}
+  - {fileID: 923233713280205529}
+  - {fileID: 923233712667057238}
+  - {fileID: 923233714078130435}
+  - {fileID: 923233712617309001}
+  - {fileID: 923233713937281220}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 923233712464702117}
+  m_AABB:
+    m_Center: {x: -1.1730559, y: -0.43233842, z: 0.0043288767}
+    m_Extent: {x: 0.8317673, y: 0.7104879, z: 0.6203579}
+  m_DirtyAABB: 0
+--- !u!1 &923233713172772025
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713172772024}
+  m_Layer: 0
+  m_Name: BARGHEST_ Spine3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713172772024
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713172772025}
+  m_LocalRotation: {x: 0, y: -1.2079227e-13, z: -0, w: 1}
+  m_LocalPosition: {x: -0.2670134, y: -0.0003655243, z: -0.0000000010138319}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233713048324216}
+  - {fileID: 923233714499906757}
+  - {fileID: 923233714162711515}
+  m_Father: {fileID: 923233713328911293}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000011289129, y: 0.000018908446, z: -6.833485}
+--- !u!1 &923233713189286712
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713189286711}
+  - component: {fileID: 923233713189286710}
+  m_Layer: 0
+  m_Name: BARGHEST_TAIL_FUR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713189286711
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713189286712}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 923233713830249811}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &923233713189286710
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713189286712}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 71988a1d531138c4085b3c75bf2df81b, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 4
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300002, guid: 7a39c4b6372e83346ae02f9c000b43c9, type: 3}
+  m_Bones:
+  - {fileID: 923233712464702117}
+  - {fileID: 923233714078130435}
+  - {fileID: 923233713287839350}
+  - {fileID: 923233712888378622}
+  - {fileID: 923233712617309001}
+  - {fileID: 923233712667057238}
+  - {fileID: 923233712501210507}
+  - {fileID: 923233713937281220}
+  - {fileID: 923233713390448967}
+  - {fileID: 923233714310488140}
+  - {fileID: 923233714422019628}
+  - {fileID: 923233712558465981}
+  - {fileID: 923233714499906757}
+  - {fileID: 923233712498542923}
+  - {fileID: 923233713237457869}
+  - {fileID: 923233714363566540}
+  - {fileID: 923233713939243178}
+  - {fileID: 923233714162711515}
+  - {fileID: 923233714124823594}
+  - {fileID: 923233713825878072}
+  - {fileID: 923233713048324216}
+  - {fileID: 923233713280205529}
+  - {fileID: 923233713883219055}
+  - {fileID: 923233713671192270}
+  - {fileID: 923233713703762607}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 923233712464702117}
+  m_AABB:
+    m_Center: {x: 0.87453014, y: 0.28022978, z: 0.009702861}
+    m_Extent: {x: 0.9652197, y: 0.67618906, z: 0.7517419}
+  m_DirtyAABB: 0
+--- !u!1 &923233713237457870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713237457869}
+  m_Layer: 0
+  m_Name: BARGHEST_ L Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713237457869
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713237457870}
+  m_LocalRotation: {x: -0.0000000042497583, y: -0.000000011486615, z: 0.2951373, w: 0.9554548}
+  m_LocalPosition: {x: -0.16404518, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 923233713939243178}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00000007790527, y: 0.000000642847, z: 34.331543}
+--- !u!1 &923233713280205530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713280205529}
+  m_Layer: 0
+  m_Name: BARGHEST_ L Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713280205529
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713280205530}
+  m_LocalRotation: {x: 0.000000018787045, y: -0.000000009569205, z: 0.33870235, w: 0.9408936}
+  m_LocalPosition: {x: -0.4463913, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 923233713390448967}
+  m_Father: {fileID: 923233712888378622}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000027423455, y: -0.0000022888175, z: 63.979576}
+--- !u!1 &923233713287839351
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713287839350}
+  m_Layer: 0
+  m_Name: BARGHEST_ R Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713287839350
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713287839351}
+  m_LocalRotation: {x: 0.6915204, y: -0.6905974, z: 0.16520615, w: -0.13259602}
+  m_LocalPosition: {x: -0.00000045776366, y: -0.00000045776366, z: -0.27825361}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 923233713883219055}
+  m_Father: {fileID: 923233712464702117}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0.9075366, y: 155.8323, z: -105.36143}
+--- !u!1 &923233713293347670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713293347669}
+  m_Layer: 0
+  m_Name: FrontFeet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713293347669
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713293347670}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 923233713830249811}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &923233713328911294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713328911293}
+  m_Layer: 0
+  m_Name: BARGHEST_ Spine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713328911293
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713328911294}
+  m_LocalRotation: {x: 0, y: -1.2079227e-13, z: -0, w: 1}
+  m_LocalPosition: {x: -0.23881476, y: -0.00021263122, z: -5.897891e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233713172772024}
+  m_Father: {fileID: 923233714093169058}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000011289158, y: 0.000018908477, z: -6.8334875}
+--- !u!1 &923233713390448968
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713390448967}
+  m_Layer: 0
+  m_Name: BARGHEST_ L HorseLink
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713390448967
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713390448968}
+  m_LocalRotation: {x: 0.00000004396017, y: -0.0000000040843635, z: -0.5240295, w: 0.8517001}
+  m_LocalPosition: {x: -0.32869494, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0.9999999}
+  m_Children:
+  - {fileID: 923233714310488140}
+  m_Father: {fileID: 923233713280205529}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000004108687, y: -0.00000062523446, z: -65.70522}
+--- !u!1 &923233713441428063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713441428062}
+  m_Layer: 0
+  m_Name: BARGHEST_ Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713441428062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713441428063}
+  m_LocalRotation: {x: -2.1935935e-13, y: -0.00000036672367, z: 0.13222013, w: 0.9912204}
+  m_LocalPosition: {x: -0.14954291, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233714363566540}
+  m_Father: {fileID: 923233712498542923}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000089916415, y: -0.00014315476, z: 64.26648}
+--- !u!1 &923233713460243403
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713460243402}
+  m_Layer: 0
+  m_Name: BARGHEST_ R Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713460243402
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713460243403}
+  m_LocalRotation: {x: 0.056323417, y: -0.008858576, z: 0.23312156, w: 0.9707747}
+  m_LocalPosition: {x: -0.21108703, y: 0, z: -0.000000076293944}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 923233713066432260}
+  m_Father: {fileID: 923233714485223854}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 5.9835644, y: 1.9930749, z: 21.072842}
+--- !u!1 &923233713633929632
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713633929663}
+  m_Layer: 0
+  m_Name: BARGHEST_ Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713633929663
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713633929632}
+  m_LocalRotation: {x: -0.000002080476, y: 0.0000006936761, z: -0.00039816278, w: 0.99999994}
+  m_LocalPosition: {x: -0.18232486, y: -0.00677597, z: 0.000000262245}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233714093169058}
+  - {fileID: 923233714078130435}
+  m_Father: {fileID: 923233712464702117}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -0.00023837254, y: 0.00007893833, z: 0.18729216}
+--- !u!1 &923233713671192271
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713671192270}
+  m_Layer: 0
+  m_Name: BARGHEST_ Tail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713671192270
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713671192271}
+  m_LocalRotation: {x: -1.7512401e-14, y: 0.000000020676744, z: -0.007454841, w: 0.9999722}
+  m_LocalPosition: {x: -0.31180465, y: -0.00025115965, z: -6.9674566e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233713703762607}
+  m_Father: {fileID: 923233712667057238}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -11.863408, y: 22.630322, z: -49.224777}
+--- !u!1 &923233713703762576
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713703762607}
+  m_Layer: 0
+  m_Name: BARGHEST_ Tail4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713703762607
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713703762576}
+  m_LocalRotation: {x: -7.893685e-14, y: 0.00000000893731, z: -0.0032221691, w: 0.9999948}
+  m_LocalPosition: {x: -0.31566116, y: -0.00031402588, z: -8.7136864e-10}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 923233713671192270}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -7.0876007, y: 24.460487, z: -47.88066}
+--- !u!1 &923233713825878073
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713825878072}
+  m_Layer: 0
+  m_Name: BARGHEST_ R Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713825878072
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713825878073}
+  m_LocalRotation: {x: 9.2865216e-11, y: -0.000000006611748, z: 0.29513732, w: 0.9554548}
+  m_LocalPosition: {x: -0.16404526, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 923233714124823594}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000023564726, y: 0.0000019365427, z: 34.331543}
+--- !u!1 &923233713830249815
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713830249811}
+  - component: {fileID: 923233713830249812}
+  - component: {fileID: 923233713830249814}
+  - component: {fileID: 923233713830249813}
+  - component: {fileID: 2814212336471194213}
+  m_Layer: 0
+  m_Name: Monster Dog
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713830249811
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713830249815}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.70710677}
+  m_LocalPosition: {x: -24.25, y: 0.1, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_Children:
+  - {fileID: 923233712977353958}
+  - {fileID: 923233713189286711}
+  - {fileID: 923233713085132175}
+  - {fileID: 923233712869307125}
+  - {fileID: 923233713293347669}
+  - {fileID: 923233714353182191}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 90.00001, z: 0}
+--- !u!95 &923233713830249812
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713830249815}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 7a39c4b6372e83346ae02f9c000b43c9, type: 3}
+  m_Controller: {fileID: 9100000, guid: e654d62ebb5d2774eb208b6f207547cc, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!143 &923233713830249814
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713830249815}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 1
+  m_Radius: 1
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 1, z: 0}
+--- !u!114 &923233713830249813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713830249815}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b63d18750b4afd6418fa16a3bb045959, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 923233713830249814}
+  moveCheckpoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  lookCheckpoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  escapeCheckpoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  checkPointDelay:
+  - 3
+  - 5
+  - 5
+  - 5
+  - 5
+  checkPointAction:
+  - NONE
+  - BITE
+  - JUMPBITE
+  - GROWL
+  - BITE
+  turnSpeed: 2
+  walkSpeed: 5
+  runSpeed: 7
+  xRotateSpeed: 15
+  gravity: -9.81
+  running: 0
+  frontFeet: {fileID: 923233713293347670}
+  backFeet: {fileID: 923233714353182160}
+--- !u!82 &2814212336471194213
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713830249815}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: eaea38ea745ce1b4ea2d4937b0f7a6b4, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.7
+  m_Pitch: 0.9
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1 &923233713883219024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713883219055}
+  m_Layer: 0
+  m_Name: BARGHEST_ R Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713883219055
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713883219024}
+  m_LocalRotation: {x: -0.00000004933376, y: 0.00000001193569, z: 0.33870235, w: 0.9408936}
+  m_LocalPosition: {x: -0.44639125, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 923233714485223854}
+  m_Father: {fileID: 923233713287839350}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000008481164, y: 0.000003858023, z: 63.980175}
+--- !u!1 &923233713937281221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713937281220}
+  m_Layer: 0
+  m_Name: BARGHEST_ L Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713937281220
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713937281221}
+  m_LocalRotation: {x: -0.70595336, y: -0.035095993, z: 0.03512395, w: 0.7065157}
+  m_LocalPosition: {x: -0.37702674, y: 0.000000009536743, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 923233713939243178}
+  m_Father: {fileID: 923233712501210507}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -64.98194, y: 95.88127, z: -99.8719}
+--- !u!1 &923233713939243179
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233713939243178}
+  m_Layer: 0
+  m_Name: BARGHEST_ L Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233713939243178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233713939243179}
+  m_LocalRotation: {x: 0.6290283, y: -0.22367714, z: 0.2582535, w: 0.6982815}
+  m_LocalPosition: {x: -0.1509861, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 923233713237457869}
+  m_Father: {fileID: 923233713937281220}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 83.72486, y: 6.5765066, z: 46.487236}
+--- !u!1 &923233714078130436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714078130435}
+  m_Layer: 0
+  m_Name: BARGHEST_ Tail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714078130435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714078130436}
+  m_LocalRotation: {x: -0.00000023767862, y: -0.0000027104638, z: 0.9689482, w: -0.24726391}
+  m_LocalPosition: {x: 0.47162834, y: -0.112858124, z: -0.0000000984063}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 923233712617309001}
+  m_Father: {fileID: 923233713633929663}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 14.633122, y: -9.159894, z: -114.38225}
+--- !u!1 &923233714093169059
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714093169058}
+  m_Layer: 0
+  m_Name: BARGHEST_ Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714093169058
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714093169059}
+  m_LocalRotation: {x: 0, y: -1.2079227e-13, z: -0, w: 1}
+  m_LocalPosition: {x: -0.2743797, y: -0.00019020081, z: -5.2779797e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233713328911293}
+  m_Father: {fileID: 923233713633929663}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00000086235764, y: 0.000016533066, z: -5.97168}
+--- !u!1 &923233714124823595
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714124823594}
+  m_Layer: 0
+  m_Name: BARGHEST_ R Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714124823594
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714124823595}
+  m_LocalRotation: {x: -0.6290283, y: 0.22367713, z: 0.25825354, w: 0.6982815}
+  m_LocalPosition: {x: -0.15098609, y: 0.000000038146972, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0.9999999}
+  m_Children:
+  - {fileID: 923233713825878072}
+  m_Father: {fileID: 923233712935338096}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -83.72486, y: -6.576477, z: 46.48719}
+--- !u!1 &923233714162711516
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714162711515}
+  m_Layer: 0
+  m_Name: BARGHEST_ R Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714162711515
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714162711516}
+  m_LocalRotation: {x: 0.6616599, y: -0.33781347, z: 0.487041, w: -0.45921597}
+  m_LocalPosition: {x: -0.16411273, y: -0.23992294, z: -0.20959415}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 923233712840975735}
+  m_Father: {fileID: 923233713172772024}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -16.178556, y: 96.206055, z: -111.37297}
+--- !u!1 &923233714247208534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714247208533}
+  m_Layer: 0
+  m_Name: BARGHEST_ R Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714247208533
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714247208534}
+  m_LocalRotation: {x: 0.000000013264248, y: -0.0000000021144568, z: 0.41680023, w: 0.90899813}
+  m_LocalPosition: {x: -0.46772835, y: -0.000000076293944, z: -0.000000038146972}
+  m_LocalScale: {x: 1.0000002, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 923233712935338096}
+  m_Father: {fileID: 923233712840975735}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00000082189354, y: -0.000006568975, z: 95.284035}
+--- !u!1 &923233714310488141
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714310488140}
+  m_Layer: 0
+  m_Name: BARGHEST_ L Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714310488140
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714310488141}
+  m_LocalRotation: {x: -0.056323364, y: 0.008858592, z: 0.23312156, w: 0.9707747}
+  m_LocalPosition: {x: -0.21108703, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.99999976, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 923233714422019628}
+  m_Father: {fileID: 923233713390448967}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -5.9836497, y: -1.992949, z: 21.072483}
+--- !u!1 &923233714353182160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714353182191}
+  m_Layer: 0
+  m_Name: BackFeet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714353182191
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714353182160}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0.7}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 923233713830249811}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &923233714363566541
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714363566540}
+  m_Layer: 0
+  m_Name: BARGHEST_ Queue de cheval 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714363566540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714363566541}
+  m_LocalRotation: {x: 0.00000026044833, y: 0.0000017670716, z: -0.5319118, w: 0.84679985}
+  m_LocalPosition: {x: 0.08509193, y: 0.11681671, z: 0.00000156826}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 923233713441428062}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000036726164, y: 0.000101606325, z: -39.7452}
+--- !u!1 &923233714422019629
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714422019628}
+  m_Layer: 0
+  m_Name: BARGHEST_ L Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714422019628
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714422019629}
+  m_LocalRotation: {x: -0.00000001448798, y: 0.00000001580507, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.14098118, y: 0.12922111, z: -0.000000038146972}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 923233714310488140}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00014836573, y: -0.00026328128, z: -90.00042}
+--- !u!1 &923233714485223855
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714485223854}
+  m_Layer: 0
+  m_Name: BARGHEST_ R HorseLink
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714485223854
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714485223855}
+  m_LocalRotation: {x: 0.0000000051238587, y: 0.00000001543669, z: -0.52402955, w: 0.85170007}
+  m_LocalPosition: {x: -0.32869494, y: 0, z: -0.000000038146972}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 923233713460243402}
+  m_Father: {fileID: 923233713883219055}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000003797639, y: 0.00000179849, z: -65.705864}
+--- !u!1 &923233714499906758
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923233714499906757}
+  m_Layer: 0
+  m_Name: BARGHEST_ Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923233714499906757
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923233714499906758}
+  m_LocalRotation: {x: 5.6667466e-15, y: 0.00000018321455, z: -0.066056654, w: 0.9978159}
+  m_LocalPosition: {x: -0.44770077, y: -0.052609634, z: -0.000000077203296}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children:
+  - {fileID: 923233712498542923}
+  m_Father: {fileID: 923233713172772024}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0.000029272553, y: 0.000091906746, z: -35.333652}

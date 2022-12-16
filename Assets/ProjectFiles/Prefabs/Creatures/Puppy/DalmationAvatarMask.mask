@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DalmationAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Dalmatian_HP
+    m_Weight: 1
+  - m_Path: Dalmatian_LP
+    m_Weight: 1
+  - m_Path: Dalmatian_SLP
+    m_Weight: 1
+  - m_Path: RootMotion
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_l_HindLeg_HipSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_l_HindLeg_HipSHJnt/Dalmatian_l_HindLeg_Knee1SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_l_HindLeg_HipSHJnt/Dalmatian_l_HindLeg_Knee1SHJnt/Dalmatian_l_HindLeg_Knee2SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_l_HindLeg_HipSHJnt/Dalmatian_l_HindLeg_Knee1SHJnt/Dalmatian_l_HindLeg_Knee2SHJnt/Dalmatian_l_HindLeg_AnkleSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_l_HindLeg_HipSHJnt/Dalmatian_l_HindLeg_Knee1SHJnt/Dalmatian_l_HindLeg_Knee2SHJnt/Dalmatian_l_HindLeg_AnkleSHJnt/Dalmatian_l_HindLeg_BallSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_r_HindLeg_HipSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_r_HindLeg_HipSHJnt/Dalmatian_r_HindLeg_Knee1SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_r_HindLeg_HipSHJnt/Dalmatian_r_HindLeg_Knee1SHJnt/Dalmatian_r_HindLeg_Knee2SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_r_HindLeg_HipSHJnt/Dalmatian_r_HindLeg_Knee1SHJnt/Dalmatian_r_HindLeg_Knee2SHJnt/Dalmatian_r_HindLeg_AnkleSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_r_HindLeg_HipSHJnt/Dalmatian_r_HindLeg_Knee1SHJnt/Dalmatian_r_HindLeg_Knee2SHJnt/Dalmatian_r_HindLeg_AnkleSHJnt/Dalmatian_r_HindLeg_BallSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_l_Clavicle_AuxSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_l_Clavicle_AuxSHJnt/Dalmatian_l_FrontLeg_HipSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_l_Clavicle_AuxSHJnt/Dalmatian_l_FrontLeg_HipSHJnt/Dalmatian_l_FrontLeg_KneeSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_l_Clavicle_AuxSHJnt/Dalmatian_l_FrontLeg_HipSHJnt/Dalmatian_l_FrontLeg_KneeSHJnt/Dalmatian_l_FrontLeg_AnkleSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_l_Clavicle_AuxSHJnt/Dalmatian_l_FrontLeg_HipSHJnt/Dalmatian_l_FrontLeg_KneeSHJnt/Dalmatian_l_FrontLeg_AnkleSHJnt/Dalmatian_l_FrontLeg_BallSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt/Dalmatian_Head_JawSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt/Dalmatian_Head_TopSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt/Dalmatian_Head_TopSHJnt/Dalmatian_l_Ear_01SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt/Dalmatian_Head_TopSHJnt/Dalmatian_l_Ear_01SHJnt/Dalmatian_l_Ear01_AuxSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt/Dalmatian_Head_TopSHJnt/Dalmatian_l_Ear_01SHJnt/Dalmatian_l_Ear01_AuxSHJnt/Dalmatian_l_Ear02_AuxSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt/Dalmatian_Head_TopSHJnt/Dalmatian_l_Eye_01SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt/Dalmatian_Head_TopSHJnt/Dalmatian_r_Ear_01SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt/Dalmatian_Head_TopSHJnt/Dalmatian_r_Ear_01SHJnt/Dalmatian_r_Ear01_AuxSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt/Dalmatian_Head_TopSHJnt/Dalmatian_r_Ear_01SHJnt/Dalmatian_r_Ear01_AuxSHJnt/Dalmatian_r_Ear02_AuxSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_Neck_01SHJnt/Dalmatian_Neck_02SHJnt/Dalmatian_Neck_TopSHJnt/Dalmatian_Head_TopSHJnt/Dalmatian_r_Eye_01SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_r_Clavicle_AuxSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_r_Clavicle_AuxSHJnt/Dalmatian_r_FrontLeg_HipSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_r_Clavicle_AuxSHJnt/Dalmatian_r_FrontLeg_HipSHJnt/Dalmatian_r_FrontLeg_KneeSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_r_Clavicle_AuxSHJnt/Dalmatian_r_FrontLeg_HipSHJnt/Dalmatian_r_FrontLeg_KneeSHJnt/Dalmatian_r_FrontLeg_AnkleSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Spine_01SHJnt/Dalmatian_Spine_02SHJnt/Dalmatian_Spine_03SHJnt/Dalmatian_Spine_TopSHJnt/Dalmatian_r_Clavicle_AuxSHJnt/Dalmatian_r_FrontLeg_HipSHJnt/Dalmatian_r_FrontLeg_KneeSHJnt/Dalmatian_r_FrontLeg_AnkleSHJnt/Dalmatian_r_FrontLeg_BallSHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Tail_01_01SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Tail_01_01SHJnt/Dalmatian_Tail_01_02SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Tail_01_01SHJnt/Dalmatian_Tail_01_02SHJnt/Dalmatian_Tail_01_03SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Tail_01_01SHJnt/Dalmatian_Tail_01_02SHJnt/Dalmatian_Tail_01_03SHJnt/Dalmatian_Tail_01_04SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Tail_01_01SHJnt/Dalmatian_Tail_01_02SHJnt/Dalmatian_Tail_01_03SHJnt/Dalmatian_Tail_01_04SHJnt/Dalmatian_Tail_01_05SHJnt
+    m_Weight: 1
+  - m_Path: RootMotion/Dalmatian_ROOTSHJnt/Dalmatian_Tail_01_01SHJnt/Dalmatian_Tail_01_02SHJnt/Dalmatian_Tail_01_03SHJnt/Dalmatian_Tail_01_04SHJnt/Dalmatian_Tail_01_05SHJnt/Dalmatian_Tail_01_06SHJnt
+    m_Weight: 1

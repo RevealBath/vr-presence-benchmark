@@ -1,0 +1,90 @@
+0000-0001 Bind Pose
+0002-0082 loop Idle
+0085-0095 loop Runing Fast
+0098-0130 loop Walking
+0133-0213 loop Fight Idle
+0216-0260 loop Attack Jaw
+0263-0282 loop Hit Left
+0283-0303 loop Hit Right
+0304-0324 loop Hit Front
+0325-0346 loop Hit Back
+0348-0366 Death Left Side
+0367-0385 Death Right Side
+0387-0406 loop Jumping
+0408-0462 Start Go To Sleep
+0463-0523 loop Sleeping
+0524-0573 Stund Up
+0575-0614 loop Strafe Left
+0617-0656 loop Strafe Right
+0659-0712 loop Diging
+0715-0747 loop Swiming
+0750-0801 loop Walk Back
+0803-0813 Start Eating
+0814-0873 loop Eating
+0874-0884 End Eating
+0886-0918 loop Barking 
+0921-0965 loop Attack Jaw 01
+0968-0993 loop Jump Attack
+0996-1056 loop Crawling
+1059-1089 loop Stop Crawling
+1092-1120 loop Dance
+1123-1176 loop Eating 01
+1179-1209 loop Enjoy Seating
+1212-1242 loop Jumping UP
+1245-1275 loop Jumping Down
+1278-1308 loop Enjoy Lieing
+1311-1337 loop Run Forward_Back 
+1340-1368 Start Scraching
+1369-1394 loop Scraching
+1395-1425 End Scraching
+1426-1455 Start Idlle Seating
+1456-1486 loop Idle Seating
+1487-1516 End Idle Seating
+1518-1533 loop Run
+1535-1565 Strat Rest
+1566-1630 loop Rest
+1631-1663 End Rest
+1664-1688 Start Pissing
+1689-1738 loop Pissing
+1739-1764 End Pissing
+1765-1794 Start Sheeting
+1795-1855 loop Sheeting
+1856-1885 End Sheeting
+1887-1911 loop Turn Left
+1914-1938 loop Turn Right 
+1941-2005 loop Walking Smell
+2008-2025 loop Squats 
+2028-2093 loop Walking looking round
+2096-2162 loop Walk Smell Turn_Left
+2165-2231 loop Walk Smell Turn_Right
+2234-2266 loop Walking Turn Left
+2269-2301 loop Walking Turn Right
+2304-2314 loopRuning Turn Left
+2317-2327 loop Runing Turn Right
+2330-2410 loop Enjoy Stunding
+2413-2461 loop Barking Stunding
+2464-2512 loop Runing Stop
+2515-2567 End Sheeting 01 
+2569-2578 Start With Seating To Walk Two Legs
+2579-2594 loop Walk Two Legs
+2595-2603 End Walk Two Legs to Seating
+2604-2619 Start Walk Two LEgs With Idle Stunding
+2620-2639 End Walk Two Legs To Idle Stunding
+2641-2699 loop Creeping
+2701-2717 Death Attack Left Side
+2718-2735 Death Attack Left Side
+2737-2769 loop Drinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
