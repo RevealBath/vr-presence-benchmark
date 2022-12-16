@@ -1,0 +1,40 @@
+Fear:
+animations:
+stationary = 0
+walking/running = 1
+bite - animator.CrossFade("biteNormal", 0.25f); = 2
+jumpBite - animator.CrossFade("jumpBiteNormal", 0.25f); = 3
+growl - animator.CrossFade("idleAggressive", 0.25f); = 4
+monster flinch - animator.CrossFade("getHitAggressive", 0.25f); = 5
+
+Audio:
+no audio - 0
+Bite - 1
+growl - 2
+breathe - 3
+snarl - 4
+hurt - 5
+
+happy:
+stationary = 0
+walking = 1
+turnright = 2
+turn left = 3
+bark = 4
+sidestep = 5
+dig = 6
+fight idle = 7
+jump attack = 8
+scratch = 9
+sideStepJump = 10
+
+Audio:
+no audio = 0
+5bark = 1
+fightbark = 2
+bark = 3
+
+
+retrospective timestep speeds
+fear 0.035
+happy 0.025
